@@ -1,6 +1,6 @@
 # matrix.nvim
 
-Theme for Neovim inspired by the "Matrix" saga
+Theme for Neovim inspired by the "Matrix" movies
 
 ## Installation
 
