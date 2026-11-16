@@ -75,7 +75,7 @@ M.load = function()
 
     o.background = "dark"
     o.termguicolors = true
-    g.colors_name = "vaporwave"
+    g.colors_name = "matrix"
 
     apply(M.opts)
 end
